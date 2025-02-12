@@ -39,17 +39,20 @@ python start.py
 
 ### Navigating the On-Screen Controls
 
-1. **Gesture Detection Interface**  
-   ![Gesture Detection](images/gesture_interface.png)
+1. **Mouse Activate**  
+   ![Gesture Detection](images/mouse_activation.png)
 
-2. **Hand Gesture for Left Click**  
+2. **Mouse Left Click**  
    ![Left Click Gesture](images/left_click.png)
 
-3. **Hand Gesture for Right Click**  
+3. **Mouser Right Click**  
    ![Right Click Gesture](images/right_click.png)
 
-4. **Scrolling Gesture**  
-   ![Scroll Gesture](images/scroll.png)
+4. **Selecting Options**  
+   ![Scroll Gesture](images/select_options.png)
+   
+5. **Keyboard Button Click**  
+   ![Scroll Gesture](images/keyboard_click.png)
 
 These images show how different hand gestures are used to interact with the system.
 
