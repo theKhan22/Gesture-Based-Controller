@@ -40,7 +40,7 @@ python start.py
 ### Navigating the On-Screen Controls
 
 1. **Mouse Activate**  
-   ![Gesture Detection](images/mouse_activation.png)
+   ![Gesture Detection](images/mouse_activate.png)
 
 2. **Mouse Left Click**  
    ![Left Click Gesture](images/left_click.png)
