@@ -46,3 +46,13 @@ python start.py
 ## License
 
 This project is open-source and available for modification and distribution.
+
+## Citation
+
+This project is based on a published research article. If you use this work in your research, please cite it as follows:
+
+Sadman Sakib Alif, Promise, N. A., & Aniqua Nusrat Zereen. (2024). A Two-Stage Framework for Dynamic Two-Hand On-Screen Keyboard-Mouse Interaction. 30–37. https://doi.org/10.1145/3678429.3678434
+
+‌For the full citation details, please refer to the published article:
+
+[Gesture-Based Control System - ACM Digital Library](https://dl.acm.org/doi/abs/10.1145/3678429.3678434)
