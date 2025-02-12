@@ -37,6 +37,22 @@ Run the program using:
 python start.py
 ```
 
+### Navigating the On-Screen Controls
+
+1. **Gesture Detection Interface**  
+   ![Gesture Detection](images/gesture_interface.png)
+
+2. **Hand Gesture for Left Click**  
+   ![Left Click Gesture](images/left_click.png)
+
+3. **Hand Gesture for Right Click**  
+   ![Right Click Gesture](images/right_click.png)
+
+4. **Scrolling Gesture**  
+   ![Scroll Gesture](images/scroll.png)
+
+These images show how different hand gestures are used to interact with the system.
+
 ## Features
 
 - Real-time gesture detection using MediaPipe
@@ -51,8 +67,8 @@ This project is open-source and available for modification and distribution.
 
 This project is based on a published research article. If you use this work in your research, please cite it as follows:
 
-Sadman Sakib Alif, Promise, N. A., & Aniqua Nusrat Zereen. (2024). A Two-Stage Framework for Dynamic Two-Hand On-Screen Keyboard-Mouse Interaction. 30–37. https://doi.org/10.1145/3678429.3678434
+**[Your Name], "Gesture-Based Control System," [Journal/Conference Name], [Year].**
 
-‌For the full citation details, please refer to the published article:
+For the full citation details, please refer to the published article:
 
 [Gesture-Based Control System - ACM Digital Library](https://dl.acm.org/doi/abs/10.1145/3678429.3678434)
